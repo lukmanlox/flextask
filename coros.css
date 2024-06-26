@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    padding: 20px;
+}
+.green{
+    width: 100%;
+    height: 100%;
+    background-color:#9BE8D8;
+    border: 5px solid green;
+    padding: 20px;
+    display: flex;
+}
+.maindiv{
+ width: 100%;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between; 
+}
+.blue1{
+    background-color: #809dc3;
+    width: 100%;
+    height: 150px;
+    border: 5px solid rgb(32, 32, 145);
+    display: flex;
+    
+}
+
+.reddivmain{
+    width:100%;
+   background: pink;
+    height: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:5px solid #B2533E ;
+    margin: 2px;
+}
+.blue2{
+    background-color: #809dc3;
+    width: 100%;
+    height: 150px;
+    border: 5px solid blue;
+    display: flex;
+}
+.red1{
+    width:100%;
+    background: pink;
+     height: 50%;
+     margin: 3px;
+     border:5px solid #B2533E;
+     
+}
+.outer{
+    width: 100%;
+    height : 61%;
+    display: flex;
+}
+.red2{
+    width:100%;
+    background: pink;
+     height: 50%;
+     margin: 3px;
+     border:5px solid #B2533E ;
+}
+.sub{
+    width: 100%;
+    height: 100%;
+}
+.blueA{
+    width: 33%;
+    height: 90%;
+    margin:5px ;
+    background: #C1AEFC;
+    border:5px solid #00337C;
+
+}
+.blueB{
+    width: 15%;
+    height: 90%;
+    background: #FFD4D4;
+    border:5px solid #FAAB78;
+    margin: 3px;
+}
+.blueC{
+    width: 15%;
+    height: 90%;
+    background: #FFD4D4;
+    border:5px solid #FAAB78;
+    margin: 3px;
+}
+.blueD{
+    width: 39%;
+    height: 90%;
+    margin:5px ;
+    background: #C1AEFC;
+    border:5px solid #00337C;
+
+}
+.blueAA{
+    width: 36%;
+    height: 90%;
+    margin:5px ;
+    background: #FFD4D4;
+    border:5px solid #FAAB78;
+    
+
+}
+.blueBB{
+    width: 30%;
+    height: 90%;
+    background: #FFD4D4;
+    border:5px solid #FAAB78;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5px ;
+}
+.blueCC{
+    width: 36%;
+    height: 90%;
+    margin:5px ;
+    background: #FFD4D4;
+    border:5px solid #FAAB78;
+}
+.blueDD{
+    width: 50%;
+    height: 105px;
+    background: pink ;
+    border:5px solid red;
+}
+.blueEE{
+    width: 50%;
+    height: 105px;
+    background: pink ;
+    border:5px solid red;
+}
+.king{
+    width: 100%;
+    height : 150px;
+    display: flex;  
+}
